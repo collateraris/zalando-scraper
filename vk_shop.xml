@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<yml_catalog date="2021-04-01 12:20"> 
+<shop> 
+<name>vk.com</name> 
+<company>vk.com</company> 
+<url>https://vk.com/</url> 
+<currencies> 
+ <currency id="RUB" rate="1"/> 
+</currencies> 
+<offers> 
+<offer id="NI112O0GN-A11">
+<price>11988</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear DUNK RETRO - Sneakers basse - white/black</name>
+<description>Nike Sportswear DUNK RETRO - Sneakers basse - white/black available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/fbcec5db26c6332b959d80ea4f7d7f64/e050106f7c6a4ccba070fa046a317596.jpg</picture>
+</offer> 
+<offer id="NI112O0GN-K13">
+<price>11988</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear DUNK RETRO - Sneakers basse - blue jay/university gold/white</name>
+<description>Nike Sportswear DUNK RETRO - Sneakers basse - blue jay/university gold/white available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/c95581a071674f02ad5c3dd7fa7a745a/fa07b16bd241402f8704aa98cbefd474.jpg</picture>
+</offer> 
+<offer id="NI112O0GY-A15">
+<price>14409</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear NIKE DUNK HI RETRO BTTYS - Sneakers alte - white/black/total orange</name>
+<description>Nike Sportswear NIKE DUNK HI RETRO BTTYS - Sneakers alte - white/black/total orange available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/567e6042e9ea4b1ab5e84e0e65a6fa18/6c0cc9380b1e4d7786631dc757f6aa5a.jpg</picture>
+</offer> 
+<offer id="CO415N0RI-B11">
+<price>11382</price>
+<currencyId>RUB</currencyId> 
+<name>Converse CHUCK TAYLOR ALL STAR CONSTRUCT - Sneakers alte - roasted/black/egret</name>
+<description>Converse CHUCK TAYLOR ALL STAR CONSTRUCT - Sneakers alte - roasted/black/egret available sizes: (35(IT); 36(IT); 36.5(IT); 37(IT); 37.5(IT); 38(IT); 39(IT); 39.5(IT); 40(IT); 41(IT); 41.5(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 46(IT); 46.5(IT); 48(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/0fdd915f39e14f25a2a939dd453e863d/d613df55ba934efdb3927fc132fce8c1.jpg</picture>
+</offer> 
+<offer id="AD115O1IV-M11">
+<price>18042</price>
+<currencyId>RUB</currencyId> 
+<name>adidas Originals Sneakers basse - pantone   shadow green   supplier colour</name>
+<description>adidas Originals Sneakers basse - pantone   shadow green   supplier colour available sizes: (35.5(IT); 36(IT); 36 2/3(IT); 37 1/3(IT); 38(IT); 38 2/3(IT); 39 1/3(IT); 40(IT); 40 2/3(IT); 41 1/3(IT); 42(IT); 42 2/3(IT); 43 1/3(IT); 44(IT); 44 2/3(IT); 45 1/3(IT); 46(IT); 46 2/3(IT); 47 1/3(IT); 48(IT); 48 2/3(IT); 49 1/3(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/1f6131eaee05443f9a92f018c90ed790/a1cdde03bb824d309a9913f65fd5eecd.jpg</picture>
+</offer> 
+<offer id="NI112N04E-I11">
+<price>14409</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear DUNK RETRO BTTYS - Sneakers alte - psychic purple/black/white</name>
+<description>Nike Sportswear DUNK RETRO BTTYS - Sneakers alte - psychic purple/black/white available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/756226bc731940f7ae7dabb0a5b2a3ff/e88bbb76b6ff44f8ad14fbb2882328dc.jpg</picture>
+</offer> 
+<offer id="NI112O0TE-M11">
+<price>13198</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear DUNK RETRO - Sneakers basse - green/yellow strike/white</name>
+<description>Nike Sportswear DUNK RETRO - Sneakers basse - green/yellow strike/white available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/4fd1bbd875d04ef6a292a2323e995d39/6436fbb2a86d44b1941823a693cee8c8.jpg</picture>
+</offer> 
+<offer id="NI112O0TH-A11">
+<price>24096</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear NIKE AIR MAX 97 - Sneakers basse - summit white/black/safety orange/lemon wash/old royal</name>
+<description>Nike Sportswear NIKE AIR MAX 97 - Sneakers basse - summit white/black/safety orange/lemon wash/old royal available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/e6f9250b64d542559c30e21d4c6aae91/c80836e82b6347299e05b01e0c48f47c.jpg</picture>
+</offer> 
+<offer id="NI112O0T6-A11">
+<price>19253</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear AIR MAX 90 - Sneakers basse - summit white/safety orange/sesame</name>
+<description>Nike Sportswear AIR MAX 90 - Sneakers basse - summit white/safety orange/sesame available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/01c0fae5fe684637bf5bbd38cc102e64/e123a2641b96420a828e6aedf627a4a7.jpg</picture>
+</offer> 
+<offer id="NI112O0SG-A12">
+<price>27729</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear AIR VAPORMAX 2021 FK FR NN - Sneakers basse - white/old royal/yellow ochre/universal red/white</name>
+<description>Nike Sportswear AIR VAPORMAX 2021 FK FR NN - Sneakers basse - white/old royal/yellow ochre/universal red/white available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/d471bb5d4db74ef0864f74ba9db194f2/7daa6971e481455fa5aec614f7011342.jpg</picture>
+</offer> 
+<offer id="NI112O0T4-A11">
+<price>20464</price>
+<currencyId>RUB</currencyId> 
+<name>Nike Sportswear AIR MAX TW SE - Sneakers basse - summit white/safety orange/sesame/light photo blue/lemon wash/black</name>
+<description>Nike Sportswear AIR MAX TW SE - Sneakers basse - summit white/safety orange/sesame/light photo blue/lemon wash/black available sizes: (38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 45.5(IT); 46(IT); 47(IT); 47.5(IT); 48.5(IT); 49.5(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/ece22fe2d0c64131ab2a31fbc363ceff/709184743d7147fa970e2b6b816aeeda.jpg</picture>
+</offer> 
+<offer id="VA215O0A8-K12">
+<price>13198</price>
+<currencyId>RUB</currencyId> 
+<name>Vans OLD SKOOL OVERT UNISEX - Sneakers basse - pop color navy/grey</name>
+<description>Vans OLD SKOOL OVERT UNISEX - Sneakers basse - pop color navy/grey available sizes: (34.5(IT); 35(IT); 36(IT); 36.5(IT); 37(IT); 38(IT); 38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 46(IT); 47(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/93d326d3caaf4afd8570261869cfb7b0/3dd0ff89b9ab4ff9b9be1ee093856a10.jpg</picture>
+</offer> 
+<offer id="VA215O0A8-B11">
+<price>13198</price>
+<currencyId>RUB</currencyId> 
+<name>Vans OLD SKOOL OVERT UNISEX - Sneakers basse - pop color oatmeal/black</name>
+<description>Vans OLD SKOOL OVERT UNISEX - Sneakers basse - pop color oatmeal/black available sizes: (34.5(IT); 35(IT); 36(IT); 36.5(IT); 37(IT); 38(IT); 38.5(IT); 39(IT); 40(IT); 40.5(IT); 41(IT); 42(IT); 42.5(IT); 43(IT); 44(IT); 44.5(IT); 45(IT); 46(IT); 47(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/d6057729c7c9481f94d706c3de31cc70/678d4c8adc9a492fa1b05af543b65a21.jpg</picture>
+</offer> 
+<offer id="AD115O1IW-C11">
+<price>18042</price>
+<currencyId>RUB</currencyId> 
+<name>adidas Originals HYPERTURF UNISEX - Sneakers basse - grey three/core black/grey five</name>
+<description>adidas Originals HYPERTURF UNISEX - Sneakers basse - grey three/core black/grey five available sizes: (36(IT); 36 2/3(IT); 37 1/3(IT); 38(IT); 38 2/3(IT); 39 1/3(IT); 40(IT); 40 2/3(IT); 41 1/3(IT); 42(IT); 42 2/3(IT); 43 1/3(IT); 44(IT); 44 2/3(IT); 45 1/3(IT); 46(IT); 46 2/3(IT); 47 1/3(IT); 48(IT); 48 2/3(IT); 49 1/3(IT); )</description>
+<picture>https://mosaic03.ztat.net/vgs/media/detail/spp-media-p1/d747916c473a45cb9160e39ed8b886fd/630c6e64b4dd4e30ad52ab0062786495.jpg</picture>
+</offer> 
+</offers> 
+</shop> 
+</yml_catalog> 
